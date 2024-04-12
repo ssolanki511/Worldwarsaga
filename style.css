@@ -195,7 +195,7 @@ header .navbar ul li ul{
     left: -30px;
     display: none;
     width: 120px;
-    background-color: black;
+    background-color: #c6c6c6;
     border-radius: 0px 0px 5px 5px;
 }
 header .navbar ul li:hover ul{
