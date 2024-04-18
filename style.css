@@ -162,7 +162,7 @@ header{
     z-index: 1;
 }
 header .navbar{
-    background-color: rgba(0, 0, 0, 0.451);
+    background-color: rgb(128, 128, 128);
     height: 80px;
     width: 100%;
     line-height: 75px;
@@ -195,7 +195,7 @@ header .navbar ul li ul{
     left: -30px;
     display: none;
     width: 120px;
-    background-color: rgba(0, 0, 0, 0.254);
+    background-color: rgb(128, 128, 128);
     border-radius: 0px 0px 5px 5px;
 }
 header .navbar ul li:hover ul{
@@ -211,7 +211,7 @@ header .navbar ul li ul li a{
     padding: 10px 16px;
 }
 header .navbar ul li ul li a:hover{
-    color: #1D9BF0;
+    color: #F4CE14;
 }
 header .navbar ul li a .fa-solid:hover{
     color: #F4CE14;
